@@ -57,8 +57,8 @@ params.admm_lambda1 =0.01;
 params.admm_lambda2 =0.01;
 params.admm_mu=1;
 params.admm_mu_m=1;
-params.eta=0;
-params.weight=0;
+params.eta=200;
+params.weight=0.02;
 
 params.reg_window_max=1e5;
 params.reg_window_min=1e-3;
