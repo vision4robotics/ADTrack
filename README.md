@@ -6,7 +6,7 @@ on tracking in the daytime. However, when the night falls, the trackers will enc
 
 # Citation
 If you uses our tracker, dataset, or relevant data, please cite our paper as:
-`
+
 @INPROCEEDINGS
 
 {Li2021ICRA,
@@ -26,7 +26,6 @@ If you uses our tracker, dataset, or relevant data, please cite our paper as:
   pages={1-8},
 
 }
-`
 
 For journal version of ADTrack, please refer to branch _**jernal**_.
 
