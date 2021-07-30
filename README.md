@@ -7,7 +7,9 @@ on tracking in the daytime. However, when the night falls, the trackers will enc
 # Citation
 If you uses our tracker, dataset, or relevant data, please cite our paper as:
 
-@INPROCEEDINGS{Li2021ICRA,\\
+@INPROCEEDINGS
+`
+{Li2021ICRA,\\
   author={B. {Li} and C. {Fu} and F. {Ding} and J. {Ye} and F. {Lin}},\\
   booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},\\
   title={{ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking}}, \\
@@ -16,7 +18,7 @@ If you uses our tracker, dataset, or relevant data, please cite our paper as:
   number={},\\
   pages={1-8},\\
 }
-
+`
 For journal version of ADTrack, please refer to branch _**jernal**_.
 
 # Contact
