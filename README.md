@@ -27,7 +27,7 @@ If you uses our tracker, dataset, or relevant data, please cite our paper as:
 
 }
 
-For journal version of ADTrack, please refer to branch _**jernal**_.
+For journal version of ADTrack, please refer to branch _**journal**_.
 
 # Contact
 
