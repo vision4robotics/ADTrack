@@ -1,7 +1,7 @@
 # All-Day Object Tracking for Unmanned Aerial Vehicle 
 Matlab implementation of our Real-time illuminative adaptive Anti-Dark tracker (ADTrack).
 
-***journal*** version of _ADTrack: Target-aware Dual Filter Learning for Anti-Dark Real-time UAV tracking, ICRA_
+***journal*** version of _ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking, ICRA_
 
 # Abstract
 
