@@ -1,4 +1,7 @@
-# Target-Aware Dual Filter Learning for Real-Time Anti-Dark Tracking (ADTrack)
+# ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking
+
+For journal version of ADTrack, please refer to branch _**journal**_.
+
 # Abstract
 
 Prior correlation filter (CF)-based tracking methods for unmanned aerial vehicles (UAVs) have virtually focused
@@ -6,28 +9,18 @@ on tracking in the daytime. However, when the night falls, the trackers will enc
 
 # Citation
 If you uses our tracker, dataset, or relevant data, please cite our paper as:
-
-@INPROCEEDINGS
-
-{Li2021ICRA,
-
-  author={B. {Li} and C. {Fu} and F. {Ding} and J. {Ye} and F. {Lin}},
-  
-  booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
-  
-  title={{ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking}}, 
-  
-  year={2021},
-  
-  volume={},
-  
-  number={},
-  
-  pages={1-8},
-
-}
-
-For journal version of ADTrack, please refer to branch _**journal**_.
+> @Inproceedings{Li2021ICRA,
+>
+> title={{ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking}}, 
+>
+> author={B. {Li} and C. {Fu} and F. {Ding} and J. {Ye} and F. {Lin}},
+>
+> booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+>
+> year={2021},
+>
+> pages={1-8},
+> }
 
 # Contact
 
