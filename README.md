@@ -22,6 +22,18 @@ If you uses our tracker, dataset, or relevant data, please cite our paper as:
 > pages={1-8},
 > }
 
+> @ARTICLE{Li_2022_TMC,
+> 
+> title={{All-Day Object Tracking for Unmanned Aerial Vehicle}}, 
+>     
+> author={Bowen Li and Changhong Fu and Fangqiang Ding and Junjie Ye and Fuling Lin},
+>       
+> journal={IEEE Transactions on Mobile Computing}, 
+>       
+> year={2022},
+> 
+> pages={1-14},
+> }
 # Contact
 
 Bowen Li
